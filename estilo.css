@@ -1,7 +1,7 @@
 
   body{background-color: #002b80; color: white;}
-  body{font: Verdana Geneva sans-serif;}
-  header{font: Impact Tahoma sans-serif;}
+  body{font: Verdana, Geneva, sans-serif;}
+  header{font: Impact, Tahoma, sans-serif;}
   header h1{font-size: 5em;}
   header h2{font-size: 2em;}
   a:link{color:aqua;}
